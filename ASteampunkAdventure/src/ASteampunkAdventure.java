@@ -10,12 +10,6 @@ public class ASteampunkAdventure {
 	public static double falldamage4;
 	public static int playergold;
 	
-	//String playeranswer101;
-	//String playeranswer102;
-	//String playeranswer103;
-	//String playeranswer104;
-	//String playeranswer105;
-	
 	public static void dead() {
 		System.out.println("Your adventure comes to an end as you let out your last breath at level " + name.level + ". Farewell, " + name.playerName + "!");
 		System.exit(0);
